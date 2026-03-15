@@ -18,7 +18,8 @@ $primaryColor: (
     fourth:rgba(228, 236, 240, 1),
     fifth:rgba(30, 30, 30, 0.767),
 sixth:rgba(116, 116, 116, 0.784),
-seventh:rgba(94, 69, 32, 1)
+seventh:rgba(94, 69, 32, 1),
+
 );
 
 $colors: red, green, blue, yellow, brown, gray, black, white, pink, purple,
@@ -149,7 +150,7 @@ width:$i*1% ;
   .gap-#{$i} {
     gap: #{$i * 5}px;
   }
-  .border-#{$i} {
+  .borderw-#{$i} {
     border-width: #{$i}px;
   }
   .rounded-#{$i} {
@@ -182,7 +183,7 @@ width:$i*1% ;
   .bg-#{$color} {
     background-color: $color;
   }
-  .border-#{$color} {
+  .borderc-#{$color} {
     border-color: $color;
   }
 }
