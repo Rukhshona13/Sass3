@@ -8,18 +8,20 @@
 .all{
   max-width: 1300px;
 }
-
+.ch{
+  accent-color: green;
+}
 
 
 $primaryColor: (
-    first: rgb(249, 248, 253),
+    first: rgba(180, 180, 180, 0.154),
     second:rgba(153, 182, 197, 1),
     third:rgba(0, 72, 109, 1),
     fourth:rgba(228, 236, 240, 1),
     fifth:rgba(30, 30, 30, 0.767),
 sixth:rgba(116, 116, 116, 0.784),
 seventh:rgba(94, 69, 32, 1),
-
+eight:rgba(255, 240, 217, 0.34)
 );
 
 $colors: red, green, blue, yellow, brown, gray, black, white, pink, purple,
