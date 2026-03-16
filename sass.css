@@ -14,6 +14,10 @@
   accent-color: green;
 }
 
+.grandma {
+  width: 50%;
+}
+
 .gtr-1 {
   grid-template-rows: repeat(1, 1px);
 }
@@ -1639,11 +1643,11 @@
 }
 
 .bg-fourth {
-  background-color: rgb(228, 236, 240);
+  background-color: rgb(251, 250, 250);
 }
 
 .text-fourth {
-  color: rgb(228, 236, 240);
+  color: rgb(251, 250, 250);
 }
 
 .bg-fifth {

@@ -11,13 +11,15 @@
 .ch{
   accent-color: green;
 }
-
+.grandma{
+  width: 50%;
+}
 
 $primaryColor: (
     first: rgba(180, 180, 180, 0.154),
     second:rgba(153, 182, 197, 1),
     third:rgba(0, 72, 109, 1),
-    fourth:rgba(228, 236, 240, 1),
+    fourth:rgb(251, 250, 250),
     fifth:rgba(30, 30, 30, 0.767),
 sixth:rgba(116, 116, 116, 0.784),
 seventh:rgba(94, 69, 32, 1),
